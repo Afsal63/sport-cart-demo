@@ -1,0 +1,15 @@
+.bb{
+    background: url('https://www.ketto.org/wp-content/uploads/2020/11/shutterstock_1087919375-2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+   
+    
+}
+.vv{
+    background-color: rgb(253, 253, 253);
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 1rem;
+  
+}
